@@ -1,0 +1,11 @@
+trial,imageName,targetName,correct,trialFlip,globalFlip
+0,cat.4438.jpg,cat,1,280,280
+1,dog.4816.jpg,dog,1,1371,1711
+2,cat.4949.jpg,cat,1,85,1856
+3,cat.4720.jpg,cat,1,86,2002
+4,dog.4364.jpg,dog,1,105,2167
+5,cat.4943.jpg,cat,1,7772,9999
+6,cat.4345.jpg,cat,1,2559,12618
+7,dog.4953.jpg,dog,1,134,12812
+8,cat.4984.jpg,cat,1,84,12956
+9,cat.4908.jpg,cat,1,101,13117
